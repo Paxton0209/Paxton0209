@@ -1,4 +1,4 @@
-# Paxton · Peixin
+# Paxton
 
 Automotive HMI & cockpit interaction design. I build tools for exploring driving scenes and organizing design research.
 
@@ -8,7 +8,7 @@ Automotive HMI & cockpit interaction design. I build tools for exploring driving
 
 [Open the live tool ↗](https://paxton0209.github.io/sr-base/)
 
-[![SR Base preview](https://raw.githubusercontent.com/Paxton0209/sr-base/main/preview.jpg)](https://paxton0209.github.io/sr-base/)
+[![SR Base preview](https://raw.githubusercontent.com/Paxton0209/sr-base/main/preview-r32.jpg)](https://paxton0209.github.io/sr-base/)
 
 ### Research & workflows
 
