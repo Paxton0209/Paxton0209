@@ -8,7 +8,7 @@ Automotive HMI & cockpit interaction design. I build tools for exploring driving
 
 [Open the live tool ↗](https://paxton0209.github.io/sr-base/)
 
-[![SR Base preview](https://raw.githubusercontent.com/Paxton0209/sr-base/main/preview-r32.jpg)](https://paxton0209.github.io/sr-base/)
+[![SR background used in a cockpit interface concept](https://raw.githubusercontent.com/Paxton0209/sr-base/main/cockpit-in-context-r33.png)](https://paxton0209.github.io/sr-base/)
 
 ### Research & workflows
 
