@@ -4,11 +4,11 @@ Automotive HMI & cockpit interaction design. I build tools for exploring driving
 
 ### Design tools
 
-**[DriveScene Studio](https://github.com/Paxton0209/drivescene-studio)** · Configurable 3D scene backgrounds for intelligent-driving SR visualization and automotive cockpit UI design. Compare roads, junctions, ramps and parking environments, adjust the camera and export a 1920 × 1080 background.
+**[DriveScene Studio](https://github.com/Paxton0209/DriveScene-Studio)** · Configurable 3D scene backgrounds for intelligent-driving SR visualization and automotive cockpit UI design. Compare roads, junctions, ramps and parking environments, adjust the camera and export a 1920 × 1080 background.
 
-[Open the live tool ↗](https://paxton0209.github.io/drivescene-studio/)
+[Open the live tool ↗](https://paxton0209.github.io/DriveScene-Studio/)
 
-[![SR background used in a cockpit interface concept](https://raw.githubusercontent.com/Paxton0209/drivescene-studio/main/cockpit-in-context-r34.png)](https://paxton0209.github.io/drivescene-studio/)
+[![SR background used in a cockpit interface concept](https://raw.githubusercontent.com/Paxton0209/DriveScene-Studio/main/cockpit-in-context-r39.png)](https://paxton0209.github.io/DriveScene-Studio/)
 
 ### Research & workflows
 
